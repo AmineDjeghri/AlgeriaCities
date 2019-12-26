@@ -2,6 +2,7 @@
 
 
 Android library that help with manipulating cities in algeria.
+#### update: 10 more wilayas, does not have all the right communes yet.
 
 
 # Download!

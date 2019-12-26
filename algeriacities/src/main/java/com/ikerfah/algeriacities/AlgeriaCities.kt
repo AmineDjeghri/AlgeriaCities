@@ -1,4 +1,4 @@
-package com.ikerfah.algeriacities
+﻿package com.ikerfah.algeriacities
 
 import com.ikerfah.algeriacities.helper.Validations
 import com.ikerfah.algeriacities.models.Commune
@@ -115,7 +115,17 @@ class AlgeriaCities {
                 Wilaya(45, "Naâma", "النعامة"),
                 Wilaya(46, "Aïn Témouchent", "عين تموشنت"),
                 Wilaya(47, "Ghardaïa", "غرداية"),
-                Wilaya(48, "Relizane", "غليزان")
+                Wilaya(48, "Relizane", "غليزان"),
+                Wilaya(49, "El M'Ghair", "المغير"),
+                Wilaya(50, "El Meniaa", "المنيعة"),
+                Wilaya(51, "Ouled Djellal", "أولاد جلال"),
+                Wilaya(52, "Bordj Baji Mokhtar", "برج باجي مختار"),
+                Wilaya(53, "Béni Abbès", "بني عباس"),
+                Wilaya(54, "Timimoun", "تيميمون"),
+                Wilaya(55, "Touggourt", "تقرت"),
+                Wilaya(56, "Djanet", "جانت"),
+                Wilaya(57, "In Salah", "عين صالح"),
+                Wilaya(58, "In Guezzam", "عين قزام")
             )
         }
 
